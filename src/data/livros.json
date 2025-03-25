@@ -1,6 +1,16 @@
-[
-  { "id": 1, "text": "Livro A", "value": "35,99" },
-  { "id": 2, "text": "Livro B", "value": "45,00" },
-  { "id": 3, "text": "Livro C", "value": "40,99" },
-  { "id": 4, "text": "Livro D", "value": "23,50" }
-]
+{
+  "livros": [
+    {
+      "id": 1,
+      "text": "Livro A",
+      "value": "35.99",
+      "imagem": "/assets/placeholder.svg"
+    },
+    {
+      "id": 2,
+      "text": "Livro B",
+      "value": "45.00",
+      "imagem": "/assets/placeholder.svg"
+    }
+  ]
+}
